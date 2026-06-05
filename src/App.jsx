@@ -39,7 +39,7 @@ export default function BeBetterPrototype() {
       <header className="fixed top-0 left-0 w-full z-50 bg-white/90 backdrop-blur border-b border-gray-200">
         <div className="max-w-7xl mx-auto flex items-center justify-between px-8 lg:px-14 py-5">
           <h1 className="text-4xl font-black italic text-black tracking-tight">
-            be <span className="text-[#84CC16]">better</span>
+            be better
           </h1>
 
           <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-[#525252]">
