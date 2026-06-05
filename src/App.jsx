@@ -1,4 +1,4 @@
-export default function App() {
+export default function BeBetterPrototype() {
   const services = [
     {
       title: 'Desarrollo Web',
@@ -11,14 +11,14 @@ export default function App() {
         'Diseñamos interfaces limpias y visualmente atractivas con enfoque moderno.',
     },
     {
-      title: 'Branding Digital',
+      title: 'Soporte 24/7',
       description:
-        'Construimos identidades visuales sólidas y memorables para negocios digitales.',
+        'Construimos una base para tu empresa.',
     },
     {
-      title: 'Marketing Digital',
+      title: 'Ideas frescas',
       description:
-        'Impulsamos marcas mediante estrategias visuales y contenido digital.',
+        'Impulsamos marcas mediante estrategias y ingenio.',
     },
     {
       title: 'Automatización',
@@ -28,9 +28,9 @@ export default function App() {
   ]
 
   const projects = [
-    'Branding Corporativo',
+    'Manejo de sistemas y cyberseguridad',
     'Desarrollo Web',
-    'Marketing Visual',
+    'Desarrollo de apps',
   ]
 
   return (
@@ -148,7 +148,7 @@ export default function App() {
 
             <p className="text-lg leading-relaxed max-w-2xl">
               En Be Better combinamos creatividad, tecnología y estrategia para
-              construir experiencias digitales modernas y funcionales.
+              construir modelos digitales modernos y funcionales.
             </p>
 
             <div className="grid grid-cols-2 gap-6 mt-12">
@@ -167,7 +167,7 @@ export default function App() {
           <div className="bg-gradient-to-br from-[#06B6D4] to-[#84CC16] p-[2px] rounded-[36px] shadow-xl">
             <div className="bg-[#009E7E] rounded-[34px] p-12 text-white min-h-[420px] flex flex-col justify-center">
               <h3 className="text-4xl font-black leading-tight mb-6">
-                Tecnología y diseño
+                Tecnología y Innovacion
                 <br />
                 para impulsar marcas.
               </h3>
@@ -228,8 +228,7 @@ export default function App() {
           </h2>
 
           <p className="mt-8 text-xl text-[#525252] leading-relaxed max-w-2xl mx-auto">
-            Creamos soluciones digitales enfocadas en crecimiento, innovación y
-            posicionamiento visual.
+            Creamos soluciones digitales enfocadas en crecimiento, innovacion y alta competencia.
           </p>
 
           <button className="mt-10 bg-gradient-to-r from-[#06B6D4] to-[#84CC16] text-white px-10 py-5 rounded-2xl font-bold text-lg hover:scale-105 transition">
